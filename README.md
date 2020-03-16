@@ -1,5 +1,7 @@
-### This is code to create to Dockerize your Development Environment with Visual Studio Code.
+## This is code to create to Dockerize your Development Environment with Visual Studio Code.
 The video can be found here: https://youtu.be/fPtGgOJykTM
+
+##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
